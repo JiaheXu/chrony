@@ -1,0 +1,2 @@
+# to check if chrony is working properly
+chrony sources
