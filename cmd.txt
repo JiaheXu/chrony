@@ -1,2 +1,3 @@
 # to check if chrony is working properly
 chrony sources
+# you should see the IP of server
