@@ -1,3 +1,5 @@
 # to check if chrony is working properly
-chrony sources
+chronyc sources
 # you should see the IP of server
+
+systemctl status chrony.service
